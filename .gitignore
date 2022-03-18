@@ -1,0 +1,5 @@
+Code/DeepFault_old/experiment_results
+Code/DeepFault_old/models
+Code/DeepFault_old/sythetic_data
+*.h5
+*.npy

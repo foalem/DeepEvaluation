@@ -1,0 +1,29 @@
+{
+   "toolName": "DeepFault",
+   "description": "DeepFault: Fault Localization for Deep Neural Networks",
+   "authors": "Hasan Ferit Eniser, Simos Gerasimou, Alper Sen",
+   "language": "python",
+   "publication": "2019",
+   "path_to_script" : "C:/Users/fpatr/PycharmProjects/DLEvaluation/Code/DeepFault_old",
+   "commands": [
+      { "path":"C:/Users/fpatr/PycharmProjects/DLEvaluation/Code/DeepFault_old",
+      "command": "python run.py --model lenet5 --seed 0 --approach tarantula",
+      "dataset_type": "images"},
+      {"path":"C:/Users/fpatr/PycharmProjects/DLEvaluation/Code/DeepFault_old",
+      "command": "python run.py --model vgg16 --seed 0 --approach tarantula",
+      "dataset_type": "images"},
+      { "path":"C:/Users/fpatr/PycharmProjects/DLEvaluation/Code/DeepFault_old",
+      "command": "python run.py --model resnet20 --seed 0 --approach tarantula",
+      "dataset_type": "images"},
+      { "path":"C:/Users/fpatr/PycharmProjects/DLEvaluation/Code/DeepFault_old",
+      "command": "python run.py --model lenet5 --seed 0 --approach tarantula",
+      "dataset_type": "images"},
+      {"path":"C:/Users/fpatr/PycharmProjects/DLEvaluation/Code/DeepFault_old",
+      "command": "python run.py --model vgg16 --seed 0 --approach tarantula",
+      "dataset_type": "images"},
+      { "path":"C:/Users/fpatr/PycharmProjects/DLEvaluation/Code/DeepFault_old",
+      "command": "python run.py --model resnet20 --seed 0 --approach tarantula",
+      "dataset_type": "images"}
+
+   ]
+}
