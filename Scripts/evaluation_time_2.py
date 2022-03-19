@@ -40,7 +40,7 @@ def main(target_path):
     time_use = []
 
 
-    # Calcul Memory usage and CPU time
+    # Calcul Memory usage and CPU time for each (model, seed and approch)
     for s in range(10):
         for a in approch:
             for m in model:
