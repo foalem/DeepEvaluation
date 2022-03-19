@@ -3,3 +3,4 @@ Code/DeepFault_old/models
 Code/DeepFault_old/sythetic_data
 *.h5
 *.npy
+.idea

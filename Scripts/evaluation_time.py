@@ -60,7 +60,7 @@ def main(target_path):
     model = ['lenet5',
              'vgg16',
              'resnet20']
-    script_path = "C:/Users/fpatr/PycharmProjects/DLEvaluation/Code/DeepFault_old"
+    script_path = "/Users/aurelikama/Documents/Projet/SOEN691/DeepEvaluation/Code/DeepFault_old"
     model_name = []
     seed_num = []
     approch_name = []
